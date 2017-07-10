@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I AM up and running!
+title: Changing hello world?
 ---
 
 *This is me messing with the blog*
